@@ -25,7 +25,7 @@
 }
 
 .seguro p {
-  margin-bottom: 32px;
+  margin-bottom: 20px;
 }
 
 @media (max-width: 800px) {
@@ -34,9 +34,6 @@
   }
   .seguro {
     grid-template-columns: 1fr;
-  }
-  .seguro-imagem {
-    height: 300px;
   }
   .seguro-conteudo {
     grid-row: 1;

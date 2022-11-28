@@ -71,6 +71,7 @@
   grid-template-columns: 1fr 1fr;
   gap: 32px;
 }
+
 .bicicleta-informacoes img {
   width: 24px;
   margin-bottom: 8px;

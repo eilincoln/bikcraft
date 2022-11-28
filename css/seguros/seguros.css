@@ -1,5 +1,5 @@
 .seguros-bg {
-  background-color: var(--cor-11);
+  background: var(--cor-11);
 }
 
 .seguros {
@@ -64,7 +64,6 @@
 
 .seguros-item a {
   grid-column: 1/-1;
-  margin-bottom: 32px;
 }
 
 @media (max-width: 800px) {
